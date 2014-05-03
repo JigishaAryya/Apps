@@ -10,4 +10,4 @@ The patient can view, delete or request for fulfillment again with the doctor's 
 The pharmacist views the ePrescription and fulfills it for the patient.
 The entire lifecycle of the prescription is thus maintained and available with three parties.
 
-This was created at AngelHack Spring Bangalore 2014. The code is not yet ready for public view. Also the concept belongs to Jigisha Aryya and Co. ONLY. No Company or individual(s) has the permission to copy or implement our idea in any form without permission.
+This was created at AngelHack Spring Bangalore 2014. The code is not yet ready for public view. Also the concept belongs to Jigisha Aryya ONLY. No Company or individual(s) has the permission to copy or implement our idea in any form without permission.
