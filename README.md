@@ -5,7 +5,7 @@ New Apps from Original Ideas
 
 First Project will be creating a network of Doctors, Patients and Pharmacies for fulfillment of prescriptions, offline or online by authorized sellers.
 
-The Doctor generates an ePrescription using our web based tool using a template online, signs it digitally and assigns it to a  pharmacy for fulfillment and patient for future reference.
+The Doctor generates an ePrescription using our web based tool using a template online, signs it digitally and assigns it to a  pharmacy for fulfillment and patient for future reference. The document is encrypted for privacy.
 The patient can view, delete or request for fulfillment again with the doctor's advice.
 The pharmacist views the ePrescription and fulfills it for the patient.
 The entire lifecycle of the prescription is thus maintained and available with three parties.
